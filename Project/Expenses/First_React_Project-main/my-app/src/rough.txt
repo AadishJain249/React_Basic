@@ -1,0 +1,14 @@
+  // componets are resuabe bit of code and work same as js functions and return html
+      // in normal javascript we have to write code like this 
+      // const para=document.createElement('p')
+      // para.textContent='this is also visisble'
+      // document.getElementById(root).append(para);
+
+
+// componet must have uppercase character because in jsx (js allow html code to be written in it) lowervase 
+// character is for html tags
+// component->html,css,js->react
+
+// we are using expenseitem in app and in expenseitem we are using expense date
+// this is how component tree is built
+  
